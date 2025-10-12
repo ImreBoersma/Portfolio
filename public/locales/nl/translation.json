@@ -1,0 +1,22 @@
+{
+	"hero": {
+		"title": "Welkom op mijn website",
+		"description": "Ontdek mijn projecten, vaardigheden en meer.",
+		"cta": "Projecten bekijken"
+	},
+	"nav": {
+		"home": "Home",
+		"about": "Over mij",
+		"hobbies": "Hobby's",
+		"skills": "Vaardigheden",
+		"projects": "Projecten",
+		"contact": "Contact"
+	},
+	"loading": {
+		"website": "Website laden",
+		"page": "Pagina laden",
+		"content": "Inhoud laden",
+		"data": "Gegevens laden",
+		"images": "Afbeeldingen laden"
+	}
+}

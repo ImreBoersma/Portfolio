@@ -1,0 +1,22 @@
+{
+	"hero": {
+		"title": "Welcome to our website",
+		"description": "Here is a brief description of our website.",
+		"cta": "Get Started"
+	},
+	"nav": {
+		"home": "Home",
+		"about": "About Me",
+		"hobbies": "Hobbies",
+		"skills": "Skills",
+		"projects": "Projects",
+		"contact": "Contact"
+	},
+	"loading": {
+		"website": "Loading website",
+		"page": "Loading page",
+		"content": "Loading content",
+		"data": "Loading data",
+		"images": "Loading images"
+	}
+}
